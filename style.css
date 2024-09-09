@@ -1,0 +1,62 @@
+* {
+    background-color: #F3E9FF;
+
+}
+
+header {
+    text-align: center;
+}
+
+h1 {
+    color: #774AD8;
+    font-size: 50px;
+}
+
+img {
+    max-width: 300px;
+    max-height: 300px;
+}
+
+.container, main p, main h2 {
+    background-color: #774AD8;
+    color: white;
+    width: 800px;
+}
+
+.container {
+    padding: 50px;
+    border-radius: 5px;
+    margin: 20px auto 20px auto;
+}
+
+.yellow {
+    color: #FAE6C0;
+}
+
+span {
+    background-color: #FCEDB1;
+    color: black;
+}
+
+footer {
+    text-align: center;
+}
+
+button, a {
+    background-color: #F9C927;
+    border-radius: 4px;
+    display: block;
+    margin: 10px auto;
+}
+
+button:hover, a:hover {
+    background-color: #dcb123;
+    cursor: pointer;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    padding: 3px;
+    background-color: inherit;
+}
